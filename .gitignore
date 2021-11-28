@@ -5,4 +5,4 @@
 *.log
 
 #if we ignore file folder with files
-abc/
+# abc/
