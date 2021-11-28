@@ -1,0 +1,8 @@
+# errors.log
+# requests.log
+
+#if we want to all the log file end with .log the we use regex
+*.log
+
+#if we ignore file folder with files
+abc/
